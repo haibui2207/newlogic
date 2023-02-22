@@ -4,7 +4,7 @@
 
 ### `npm install`
 
-## Start projecy
+## Start project
 
 ### `npm start`
 
